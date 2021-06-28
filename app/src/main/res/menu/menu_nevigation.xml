@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/interets"
+        android:title="Interests"
+        android:icon="@drawable/ic_baseline_interest_24"
+        />
+
+    <item
+        android:id="@+id/matching"
+        android:title="Matching"
+        android:icon="@drawable/ic_baseline_emoji_people_24"
+        />
+
+    <item
+        android:id="@+id/chat"
+        android:title="Chat"
+        android:icon="@drawable/ic_baseline_chat_24"
+        />
+
+    <item
+        android:id="@+id/setting"
+        android:title="Setting"
+        android:icon="@drawable/ic_baseline_settings_24"
+        />
+
+</menu>

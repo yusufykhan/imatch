@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "473953970438",
+    "project_id": "imatch-42269",
+    "storage_bucket": "imatch-42269.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473953970438:android:4d203a9ac019c3efb91687",
+        "android_client_info": {
+          "package_name": "com.example.imatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473953970438-e2smmhq00gs72sovp5rufohqu23bfb4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNH-aSA_3y7CI1ZMM31nFd7gxY5_--7Rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473953970438-e2smmhq00gs72sovp5rufohqu23bfb4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
